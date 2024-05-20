@@ -24,7 +24,7 @@ body{
     box-sizing: border-box;
     max-width: 1112px;
     background: #FEFDF9;
-    margin: 3rem auto;
+    margin: 5rem auto;
     font-family: 'Inter';
 }
 main{
@@ -84,7 +84,7 @@ nav a:hover{
     font-size: 2.1rem;
 }
 .each-news h3{
-    font-size: 1rem;
+    font-size: 1.2rem;
     color: #FBFEF7;
     font-weight: 600;
     margin-bottom: 0.9rem;
@@ -95,7 +95,7 @@ nav a:hover{
     color: #EAA74E;
 }
 .each-news p{
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     color: #A3A4BA;
     margin-bottom: 2rem;
 }
@@ -119,14 +119,15 @@ nav a:hover{
 }
 .hero-desc p{
     color: #717078;
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     line-height: 1.5;
 }
 .hero-desc button{
     background: #F15D51;
     color: white;
     text-transform: uppercase;
-    padding: 0.8rem 1.4rem;
+    padding: 0.9rem 2rem;
+    font-size: 1rem;
     letter-spacing: 2px;
     border: none;
     cursor: pointer;
@@ -144,7 +145,7 @@ nav a:hover{
     height: 7.6rem;
 }
 .top-news span{
-    font-size: 1.8rem;
+    font-size: 2rem;
     color: #C4C3C8;
     font-weight: 600;
     margin-bottom: 0.4rem;
